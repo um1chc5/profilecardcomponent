@@ -42,7 +42,7 @@ main {
 .card-upper {
     height: 18.125rem;
     position: relative;
-    border-bottom: 2px solid rgb(211,211,211);
+    border-bottom: 1px solid rgb(211,211,211);
 }
 
 .card-upper > :nth-child(1) {
